@@ -16,6 +16,5 @@
 # References
 1. Shaping Belief States with Generative Environment Models for RL by Google Deepmind is an excellent research paper that consistently inspired me to work on this project. The core idea of this repo is taken from the paper.
 2. Recurrent World Models Facilitate Policy Evolution by David Ha, Jürgen Schmidhuber is another killer paper. See this link and thank me later :) - https://worldmodels.github.io/ 
-![World Model Images](ReadMeImages/worldModel.png)
 3. Unity ML agents examples - https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md
 Lots of internet research.
