@@ -6,7 +6,7 @@
 - As part of my research work at the Rutgers Machine Learning Lab, I had this fantastic opportunity to work on the Unity3d game development engine. 
 - The plan was to create an environment from scratch that contains an agent that can move around. The environment automatically changes to a new view after every episode - an episode ends when the agent completes a defined limit of time steps.
 - Unity 3d has been building ML-Agents (https://github.com/Unity-Technologies/ml-agents) for a long time now & aiding research in the domain of Reinforcement Learning.
-![Unity Env](ReadMeImages/unityEnv.jpg)
+![Unity Env](ReadMeImages/unityEnv.png)
 - Files for the environment is in the Unity folder.
 # Data collection
 - Our basic idea is to build an agent's ability to visualize what it can see in future k-steps. 
