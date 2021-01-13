@@ -1,4 +1,5 @@
 # Shaping-Agent-Imagination
+Project inspired by World Models and Shaping Belief States with Generative Environment Models by Google Deepmind
 # Core Idea: 
 - Create a RL agent that can observe an environment and collect visual observations. 
 - Using those visual observations train a Generative model that can predict what the agent can see in k-timesteps ahead by just looking at the current observation(References 1).
