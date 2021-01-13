@@ -13,7 +13,7 @@ Project inspired by World Models and Shaping Belief States with Generative Envir
 - Our basic idea is to build an agent's ability to visualize what it can see in future k-steps. 
 - We need visual data for that. AgentExplorationData notebook will collect observations and save them as .pkl files
 # Training
-- Used GRU units for time series and convDRAW for encoding the visual representation. ShapingAgentImagination notebook will train the agent.
+- Used GRU units for time series and convDRAW based feed forward residual nerual network for encoding the visual representation. ShapingAgentImagination notebook will train the agent.
 # References
 1. Shaping Belief States with Generative Environment Models for RL by Google Deepmind is an excellent research paper that consistently inspired me to work on this project. The core idea of this repo is taken from the paper.
 2. Recurrent World Models Facilitate Policy Evolution by David Ha, Jürgen Schmidhuber is another killer paper. See this link and thank me later :) - https://worldmodels.github.io/ 
